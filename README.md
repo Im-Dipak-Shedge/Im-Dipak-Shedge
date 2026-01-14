@@ -1,7 +1,7 @@
 ## Hi there 👋 Im Dipak 
 
 # 💫 About Me:
-👨‍💻 I’m currently working on  MERN<br><br>🌱 I’m currently learning React js, Node js<br><br>👨‍💻 All of my projects are available at here<br><br>💬 Ask me about Javascript, python<br><br>📫 How to reach me dipakshedge20@gmail.com
+👨‍💻 I’m currently working on  MERN<br><br>🌱 I’m currently learning React js, Node js<br><br>👨‍💻 All of my projects are available at here<br><br>💬 Ask me about Javascript, python<br><br>📫 How to reach me dipakshedge160@gmail.com
 
 
 ## 🌐 Socials:
